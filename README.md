@@ -2,6 +2,10 @@
 
 Asynchronous Javascript templating for the browser and server. This fork is maintained by [LinkedIn](http://linkedin.github.io/).
 
+## This Fork
+
+Passes context to `dust.log` to allow log consumers to access contextual information about the template being parsed
+
 ## Install
 
 ### NPM
